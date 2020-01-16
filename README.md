@@ -97,5 +97,5 @@ Comparison of code maps:
 
 Domain-centric approach provides:
 - better testability
-- loosely coupled solution-
+- loosely coupled solution
 - independence of database
